@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML5 and CSS3
 - 💞️ I’m looking to collaborate on any beginner challenging projects
 - 📫 How to reach me ceyeeyu@gmail.com
-- 0111278009
 - 😄 Pronouns: Her/she
 - ⚡ Fun fact: I'm a lover girl
 
