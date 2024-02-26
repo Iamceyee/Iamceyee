@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Celestine
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently C Programming langauge
+- 🌱 I’m currently Python Django and React
 - 💞️ I’m looking to collaborate on any beginner challenging projects
 - 📫 How to reach me ceyeeyu@gmail.com
 - 😄 Pronouns: Her/she
